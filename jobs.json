@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:20:00Z",
+  "updated": "2026-11-23T16:50:00Z",
   "jobs": [
     {
       "date": "2026-11-23",
@@ -72,6 +72,24 @@
       "status": "trimis",
       "detail": "Aplicat prin Reed Easy Apply.",
       "link": "https://www.reed.co.uk/jobs/customer-services-advisor/57523444"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Inbound Sales & Customer Engagement Advisor",
+      "company": "The Travel Franchise (Recruitment Revolution)",
+      "pay": "£35.000/an",
+      "status": "trimis",
+      "detail": "Remote, full-time. Vorbești cu oameni interesați să-și deschidă o agenție de turism; folosești HubSpot. Fără vânzare agresivă, dar cu ținte.",
+      "link": "https://www.reed.co.uk/jobs/inbound-sales-customer-engagement-advisor-the-travel-franchise/57589537"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Service Desk Analyst (Late Shift)",
+      "company": "VIQU IT Recruitment",
+      "pay": "£30.000/an + ore suplimentare în weekend",
+      "status": "trimis",
+      "detail": "Remote, full-time, tură de seară. Suport IT de prim nivel (telefon, email) pentru o firmă de backup de date. Experiența e un plus, nu obligatorie.",
+      "link": "https://www.reed.co.uk/jobs/service-desk-analyst-late-shift/57591346"
     }
   ]
 }
