@@ -1,14 +1,15 @@
 {
-  "updated": "2026-11-23T16:50:00Z",
+  "updated": "2026-11-25T19:10:00Z",
   "jobs": [
     {
       "date": "2026-11-23",
       "title": "Customer Service Advisor (Working from Home)",
       "company": "Adecco",
       "pay": "£12.71/oră · contract",
-      "status": "analiza",
-      "detail": "Cont MyAdecco creat pe 23 nov. Adecco a zis că te sună în 48 de ore, așa că răspunde la numerele necunoscute.",
-      "link": "https://www.reed.co.uk/jobs/customer-service-advisor-working-from-home/57581962"
+      "status": "actiune",
+      "detail": "Jobul e pentru Serco, prin Adecco. Pe 24 și 25 nov ți-au trimis un chestionar de completat ca pas următor (link în emailul „Next steps Customer Service” de la SercoRecruitment@adeccogroup.com).",
+      "link": "https://www.reed.co.uk/jobs/customer-service-advisor-working-from-home/57581962",
+      "todo": "Completează chestionarul Serco din emailul „Next steps Customer Service”."
     },
     {
       "date": "2026-11-23",
@@ -60,8 +61,8 @@
       "title": "Travel Operations Executive",
       "company": "Recruitment Revolution",
       "pay": "negociabil",
-      "status": "trimis",
-      "detail": "Post-booking și aftersales pentru Not Just Travel. Cer experiență în turism.",
+      "status": "respins",
+      "detail": "Pe 24 nov au anunțat că postul s-a închis. Nu au mai contactat candidații individual.",
       "link": "https://www.reed.co.uk/jobs/travel-operations-executive/57471796"
     },
     {
@@ -90,6 +91,16 @@
       "status": "trimis",
       "detail": "Remote, full-time, tură de seară. Suport IT de prim nivel (telefon, email) pentru o firmă de backup de date. Experiența e un plus, nu obligatorie.",
       "link": "https://www.reed.co.uk/jobs/service-desk-analyst-late-shift/57591346"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hotel Receptionist",
+      "company": "Welcome Break (Indeed)",
+      "pay": "necunoscut",
+      "status": "actiune",
+      "detail": "Welcome Break ți-a trimis un mesaj pe Indeed pe 25 nov. Mesajul se vede doar în contul Indeed (Messages).",
+      "todo": "Citește și răspunde la mesajul Welcome Break din Indeed → Messages.",
+      "link": "https://uk.indeed.com/"
     }
   ]
 }
