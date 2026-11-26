@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:10:00Z",
+  "updated": "2026-11-26T00:57:33Z",
   "jobs": [
     {
       "date": "2026-11-23",
@@ -101,6 +101,60 @@
       "detail": "Welcome Break ți-a trimis un mesaj pe Indeed pe 25 nov. Mesajul se vede doar în contul Indeed (Messages).",
       "todo": "Citește și răspunde la mesajul Welcome Break din Indeed → Messages.",
       "link": "https://uk.indeed.com/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Outbound Sales - Fully Remote",
+      "company": "Pertemps (pentru Domestic & General)",
+      "pay": "£25.500 + comision (OTE ~£34.500)",
+      "status": "trimis",
+      "detail": "Aplicat pe Reed. Vânzări telefonice, full remote, L–V.",
+      "link": "https://www.reed.co.uk/jobs/outbound-sales-fully-remote/57592962"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Education Coordinator - Fully Remote",
+      "company": "eRecruitSmart",
+      "pay": "£26.000",
+      "status": "trimis",
+      "detail": "Aplicat pe Reed. Coordonare/administrativ, contract 12 luni, de acasă.",
+      "link": "https://www.reed.co.uk/jobs/education-coordinator/57602489"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Claims Handler (Property)",
+      "company": "Webber Hughes",
+      "pay": "£28.000–30.000",
+      "status": "trimis",
+      "detail": "Aplicat pe Reed. Gestionare daune asigurări, de acasă, start în ianuarie.",
+      "link": "https://www.reed.co.uk/jobs/claims-handler/57611848"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Franchise Sales & Relationship Executive",
+      "company": "The Travel Franchise (Recruitment Revolution)",
+      "pay": "£35.000",
+      "status": "trimis",
+      "detail": "Aplicat pe Reed. Vânzări și relații cu clienții, remote în UK.",
+      "link": "https://www.reed.co.uk/jobs/franchise-sales-relationship-executive/57607978"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Sales Executive",
+      "company": "Reed (firmă de construcții din Sheffield)",
+      "pay": "£30.000 + comision",
+      "status": "trimis",
+      "detail": "Aplicat pe Reed. Vânzări B2B, complet remote.",
+      "link": "https://www.reed.co.uk/jobs/sales-executive/57567426"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Branch Liaison Officer",
+      "company": "HPMA (Indeed)",
+      "pay": "£28.392–31.157",
+      "status": "trimis",
+      "detail": "Aplicat pe Indeed. Suport administrativ pentru filialele HPMA, remote.",
+      "link": "https://uk.indeed.com/viewjob?jk=fabc3cea81fb4c68"
     }
   ]
 }
