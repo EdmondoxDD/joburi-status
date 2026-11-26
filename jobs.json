@@ -1,15 +1,14 @@
 {
-  "updated": "2026-11-26T00:57:33Z",
+  "updated": "2026-11-26T00:59:13Z",
   "jobs": [
     {
       "date": "2026-11-23",
       "title": "Customer Service Advisor (Working from Home)",
       "company": "Adecco",
       "pay": "£12.71/oră · contract",
-      "status": "actiune",
-      "detail": "Jobul e pentru Serco, prin Adecco. Pe 24 și 25 nov ți-au trimis un chestionar de completat ca pas următor (link în emailul „Next steps Customer Service” de la SercoRecruitment@adeccogroup.com).",
-      "link": "https://www.reed.co.uk/jobs/customer-service-advisor-working-from-home/57581962",
-      "todo": "Completează chestionarul Serco din emailul „Next steps Customer Service”."
+      "status": "analiza",
+      "detail": "Chestionarul Serco a fost completat. Se așteaptă răspunsul de la Adecco/Serco.",
+      "link": "https://www.reed.co.uk/jobs/customer-service-advisor-working-from-home/57581962"
     },
     {
       "date": "2026-11-23",
@@ -97,9 +96,8 @@
       "title": "Hotel Receptionist",
       "company": "Welcome Break (Indeed)",
       "pay": "necunoscut",
-      "status": "actiune",
-      "detail": "Welcome Break ți-a trimis un mesaj pe Indeed pe 25 nov. Mesajul se vede doar în contul Indeed (Messages).",
-      "todo": "Citește și răspunde la mesajul Welcome Break din Indeed → Messages.",
+      "status": "respins",
+      "detail": "Închis – nu merge mai departe.",
       "link": "https://uk.indeed.com/"
     },
     {
